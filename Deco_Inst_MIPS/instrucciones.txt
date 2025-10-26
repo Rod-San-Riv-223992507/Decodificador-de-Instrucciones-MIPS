@@ -1,0 +1,9 @@
+# Este es un archivo de prueba MIPS
+ADD $10, $3, $4
+SUB $8, $8, $9
+OR $2, $2, $1
+
+# Instrucción con espacios
+ADD $5, $6, $7
+
+# Línea con comentario ADD $1, $2, $3 esto no se procesa
